@@ -5,7 +5,7 @@
 - 🤓 I'm always studying a new language
 - 📫 How to reach me: j.filho.silva8@gmail.com
 
-<div align="center">
+<div align="justify">
   <a href="https://github.com/joaquim-jf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaquim-jf&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquim-jf&layout=compact&langs_count=7&theme=dark"/>
