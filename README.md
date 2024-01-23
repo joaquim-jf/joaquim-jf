@@ -11,7 +11,7 @@
 <div>
     <h2>Estatísticas no GitHub </h2>
 </div>
-<div align="center">
+<div >
   <a href="https://github.com/joaquim-jf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquim-jf&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
