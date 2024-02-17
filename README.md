@@ -5,17 +5,7 @@
 - 🤓 I'm always studying a new language
 - 📫 How to reach me: j.filho.silva8@gmail.com
 
-<div align="justify">
-  <a href="https://github.com/joaquim-jf">
-</div>
-<div>
-    <h2>Estatísticas no GitHub </h2>
-</div>
-<div >
-  <a href="https://github.com/joaquim-jf">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquim-jf&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
